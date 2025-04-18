@@ -1,8 +1,8 @@
-Hi, I’m Sohan, an aspiring Data Analyst passionate about turning complex data into clear, actionable insights. I specialize in using tools like Power BI, SQL, Python, and Excel to explore, analyze, and visualize data that supports smart business decisions.
+Hi, I’m Sohan, an aspiring Data Analyst with a Bachelor’s degree in Computer Applications (2023). I’m passionate about transforming raw data into meaningful insights using Power BI, SQL, Python, and Excel.
 
-I enjoy solving real-world problems through data storytelling, building dashboards, and simplifying data for stakeholders. I’m also continuously learning about data wrangling, data modeling, and analytics best practices to sharpen my skills.
+I enjoy working on data visualization, analytics, and storytelling to support better business decisions. With a strong focus on continuous learning, I’m actively exploring opportunities to grow and apply my skills in real-world scenarios.
 
-Currently, I’m open to internship or full-time opportunities where I can contribute, learn, and grow in a collaborative environment. Let’s connect and talk data!
+Currently open to internships or full-time roles in data analytics
 
 ![sohank99's Stats](https://github-readme-stats.vercel.app/api?username=sohank99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&show)
 
