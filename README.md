@@ -1,6 +1,8 @@
  # 💫 About Me:
  Hi, I’m Sohan,
-Improving my data analysis skills by building dashboards and exploring new datasets using Power BI and SQL.<br>Advanced DAX functions, Python for data analysis, and enhancing my storytelling through visualizations.<br>Power BI, SQL queries, data cleaning, dashboard design, and getting started with data analytics.<br>Sometimes I talk to my datasets… they don’t reply, but they do behave.
+Improving my data analysis skills by building dashboards and exploring new datasets using Power BI and SQL.<br>Advanced DAX functions, Python for data analysis, and enhancing my storytelling through visualizations.
+
+Sometimes I talk to my datasets… they don’t reply, but they do behave.
 
 
 ## 🌐 Socials:
